@@ -13,9 +13,6 @@ import static io.restassured.RestAssured.given;
 
 public class TweetAPIClient extends RestAPI {
 
-    protected InputStream inputStream1;
-    protected Properties properties;
-
 
 
 

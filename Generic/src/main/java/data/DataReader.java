@@ -63,7 +63,6 @@ public class DataReader {
             return wb.getSheetAt(sheetIndex).getRow(row).getCell(column).getNumericCellValue();
         }
 
-        //Ibrahim method
         static Workbook book;
         static Sheet sheet1;
 
